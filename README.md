@@ -63,4 +63,4 @@ Interface de dashboard responsiva com gráficos interativos e visualização de 
 
 ---
 
-Feito com ❤️ por [Seu Nome](https://github.com/joaodorast)
+Feito com ❤️ por [João Pedro Santos e Silva ](https://github.com/joaodorast)
