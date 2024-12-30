@@ -1,5 +1,6 @@
 # Dashboard de Administração
-![Captura de tela 2024-12-30 021351](https://github.com/user-attachments/assets/cfc7158a-bf61-4a44-bc94-339b5d2bf56d)
+![Captura de tela 2024-12-30 021351](https://github.com/user-attachments/assets/1a51378f-19b3-4521-b512-df981d6550cc)
+
 
 
 Interface de dashboard responsiva com gráficos interativos e visualização de dados.
